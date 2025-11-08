@@ -1,7 +1,9 @@
-# SERVER-STATS.SH — KEY ASPECTS
+## SERVER-STATS.SH — KEY ASPECTS
 
 ## Purpose:
 Provides a quick overview of a Linux server’s performance and health.
+
+ Check: https://roadmap.sh/projects/server-stats
 
 ## Main Stats Collected:
 
