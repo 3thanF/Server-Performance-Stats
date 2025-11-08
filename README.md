@@ -1,4 +1,5 @@
 ## SERVER-STATS.SH — KEY ASPECTS
+![Description](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dqcW1lNmN6bTVvMWYzM3R5dWJjNjhpenM1ZmlrYXNsMXJpaGtjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuIxFwQo0RMT1tASlV/giphy.gif)
 
 ## Purpose:
 Provides a quick overview of a Linux server’s performance and health.
